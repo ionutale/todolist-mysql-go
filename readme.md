@@ -1,3 +1,6 @@
+## About
+A demo go todo microservice for proving the speed of go.
+
 ## Build
 `docker build -t todolist .`
 
